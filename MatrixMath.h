@@ -4,6 +4,9 @@
  *  Created by Charlie Matlack on 12/18/10.
  *  Modified from code by RobH45345 on Arduino Forums, algorithm from
  *  NUMERICAL RECIPES: The Art of Scientific Computing.
+ *  Modified to work with Arduino 1.0/1.5 by randomvibe & robtillaart
+ *  Made into a real library on GitHub by Vasilis Georgitzikis (tzikis)
+ *  so that it's easy to use and install (March 2015)
  */
 
 #ifndef MatrixMath_h
